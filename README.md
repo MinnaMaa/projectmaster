@@ -15,7 +15,7 @@ This is a common issue in project-based organizations, where project teams often
 
 ## How is it used?
 
-The platform is used by project managers and team members within JCI and similar organizations. It can be accessed via a web interface, where users can search for insights, view recommendations, and collaborate on projects. Users can also filter projects by their community impact and find inspiration for initiatives that contribute to societal good.
+The platform is used by project managers and team members within JCI and similar organizations. It can be accessed via a web interface, where users can search for insights, view recommendations, and collaborate on projects. Users can also filter projects by their community impact and find inspiration for initiatives that contribute to societal good.Platform is multilingual so people can use their preffered language and there is no need to translate project documents.
 
 ## Affected people
 

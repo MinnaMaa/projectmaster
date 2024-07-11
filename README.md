@@ -1,4 +1,4 @@
-# Project Title
+# ProjectMaster
 
 Final project for the Building AI course
 Project Name: ProjectMaster
